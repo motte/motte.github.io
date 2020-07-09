@@ -5,7 +5,7 @@ amp_link: /contact
 permalink: /contact
 ---
 <div style="width: 80%; margin: 0 auto; padding: 3% 5% 0 5%; box-sizing: border-box;">
-    <h1 style="margin-bottom: 0;">CONTACT ME</h1>
+    <h1 style="margin-bottom: 0;">CONTACT</h1>
 </div>
 <div style="min-width: 320px; width: 90%; height: 930px; overflow: hidden; margin: 0 auto 20px auto; text-align: center;">
     <div style="padding: 20px;">
