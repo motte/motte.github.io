@@ -4,6 +4,9 @@ title: Contact
 amp_link: /contact
 permalink: /contact
 ---
+<div style="width: 80%; margin: 0 auto; padding: 3% 5% 0 5%; box-sizing: border-box;">
+    <h1 style="margin-bottom: 0;">CONTACT ME</h1>
+</div>
 <div style="min-width: 320px; width: 90%; height: 930px; overflow: hidden; margin: 50px auto 20px auto; text-align: center;">
     <div style="padding: 20px;">
         <a class="basic-link" href="https://www.linkedin.com/in/michaelotte13" target="_blank" title="Michael Otte's LinkedIn">LinkedIn</a>
