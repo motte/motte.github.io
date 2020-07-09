@@ -47,6 +47,20 @@ nav a:hover:before {
     transform: scaleX(1);
 }
 
+a.basic-link {
+    color: #aaa;
+    display: inline-block;
+    font-size: 20px;
+    margin: 0 10px;
+    position: relative;
+    text-decoration: none;
+}
+
+a.basic-link:hover {
+    color: #333;
+    text-decoration: underline;
+}
+
 hr {
     background: #ccc;
     border: none;
