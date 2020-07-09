@@ -14,7 +14,7 @@ jsonld: index/indexld
 </div>
 
 <section style="border-top: 1px solid #000; border-bottom: 1px solid #000; width: 80%; margin: 50px auto;">
-<p style="display: block; min-width: 720px; line-height: 1.5; margin: 80px auto; text-align: center;">
+<p style="display: block; max-width: 720px; line-height: 1.5; margin: 80px auto; text-align: center;">
 I am an Architect+Builder.<br />
 I enjoy tackling complex problems and rapidly building creative solutions.<br />
 This site was created to share some of my engineering experiences.
