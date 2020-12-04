@@ -7,11 +7,11 @@ permalink: /experience
 <main class="plain-container" style="border-bottom: 1px solid #000; width: 80%; margin: 0 auto; padding: 3% 5%;">
     <h1>EXPERIENCE</h1>
     <p>
-        I currently work at <a href="https://www.myluxhealth.com/">Lux Health</a>.
+        I currently work at <a href="https://www.luxhealth.com/">Lux Health</a>.
     </p>
     
     <div style="text-align: center;">
-        <a href="https://www.myluxhealth.com/">
+        <a href="https://www.luxhealth.com/">
             <img src="{{ base_url }}/assets/img/Lux-Health-Logo.png" height="60px" width="auto" />
         </a>
     </div>
