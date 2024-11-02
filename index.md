@@ -5,7 +5,7 @@ amp_link: /
 jsonld: index/indexld
 ---
 <figure>
-    <img src="https://firebasestorage.googleapis.com/v0/b/michael-otte-webpage.appspot.com/o/img%2Fmichael-otte-genome-visualization-3.jpg?alt=media" width="100%" height="auto" style="display: block; max-width: 1200px; margin: 0 auto;" />
+    <img src="/assets/img/michael-otte-genome-visualization-3.jpg" width="100%" height="auto" style="display: block; max-width: 1200px; margin: 0 auto;" />
 </figure>
 
 <div style="display: block; text-align: center;">
